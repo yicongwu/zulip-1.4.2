@@ -1,0 +1,23 @@
+/** @preserve
+  The software provided in this file is offered under a variety of free and open
+  source licenses. Unless otherwise specified, software is provided under the
+  Apache License, Version 2.0, for which the following text applies:
+
+    Copyright 2011-2016 Dropbox Inc. and contributors.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+  If some of the software in this file is offered under a different license,
+  information about that license will appear in this file.
+ */
+.activity_head{background-color:aliceblue}.table td{padding-top:2px;padding-bottom:2px;white-space:nowrap}.table-striped tr.recently_active td{background-color:#afa}.table-striped tr.recently_active:nth-child(odd) td{background-color:#9e9}.table-striped tr.long_inactive td{background-color:#faa}.table-striped tr.long_inactive:nth-child(odd) td{background-color:#e99}td.number{text-align:right}.summary-table{width:auto;margin:0 auto}tr.admin td:first-child{font-weight:bold;color:blue;font-size:110%}.good{font-weight:bold;color:#0a0}.bad{font-weight:bold;color:#c00}
